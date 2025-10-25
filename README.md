@@ -19,7 +19,7 @@ VIDEO EXPLICATIVO AQUI:
  https://www.canva.com/design/DAG2wqwgeEg/IrgWjvtsvBG42IPvEUsoxg/edit?utm_content=DAG2wqwgeEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 DOCUMENTAÇÃO EM PDF:
- https://www.canva.com/design/DAG2wqwgeEg/IrgWjvtsvBG42IPvEUsoxg/edit?utm_content=DAG2wqwgeEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ https://1drv.ms/w/c/bbcd5c00ad2a16b4/EU-Y80iFMItHrzRCR7KZ7zkBMKApH9TNn9aRQCW3sHbTbA?e=FBxiqE
 
 VISUALIZAÇÃO DA PROTOTIPAÇÃO DAS TRÊS TELAS PRINCIPAIS:
  https://www.figma.com/design/NVh2vEo8vM1ph0sh2Df6pa/Sem-t%C3%ADtulo?node-id=0-1&m=dev&t=XLKEZ87040sQMrUk-1
