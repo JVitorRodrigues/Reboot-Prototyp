@@ -12,3 +12,14 @@ Sistema de níveis e progressão com dificuldade crescente.
 Feedback imediato e personalizado sobre o desempenho do jogador.
 
 O projeto foi desenvolvido como parte de um trabalho acadêmico na área de Análise e Modelagem de Software, abrangendo etapas como levantamento e especificação de requisitos funcionais, criação de diagramas de casos de uso e de objetos, e estruturação de fluxos e protótipos do sistema.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+VIDEO EXPLICATIVO AQUI:
+ https://www.canva.com/design/DAG2wqwgeEg/IrgWjvtsvBG42IPvEUsoxg/edit?utm_content=DAG2wqwgeEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+DOCUMENTAÇÃO EM PDF:
+ https://www.canva.com/design/DAG2wqwgeEg/IrgWjvtsvBG42IPvEUsoxg/edit?utm_content=DAG2wqwgeEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+VISUALIZAÇÃO DA PROTOTIPAÇÃO DAS TRÊS TELAS PRINCIPAIS:
+ https://www.figma.com/design/NVh2vEo8vM1ph0sh2Df6pa/Sem-t%C3%ADtulo?node-id=0-1&m=dev&t=XLKEZ87040sQMrUk-1
